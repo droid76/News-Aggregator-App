@@ -1,0 +1,24 @@
+{
+  "name": "news-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "node":"node app",
+    "dev": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "guardian-js": "^2.0.0",
+    "node-fetch": "^2.6.0",
+    "nyt": "^0.1.0",
+    "query-string": "^6.11.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": "dist",
+    "appService.defaultWebAppToDeploy": "/subscriptions/9e388121-e755-41e8-9888-e05d4dd4e385/resourceGroups/AppServiceQS-rg/providers/Microsoft.Web/sites/csci571-react"
+}
